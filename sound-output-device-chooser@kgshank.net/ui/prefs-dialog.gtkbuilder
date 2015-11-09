@@ -47,7 +47,7 @@
             <property name="can_focus">False</property>
             <property name="halign">start</property>
             <property name="margin_right">100</property>
-            <property name="label" translatable="yes">Show profiles for selection</property>
+            <property name="label" translatable="yes">Mostrar perfiles para la selección</property>
           </object>
           <packing>
             <property name="left_attach">0</property>
@@ -60,7 +60,7 @@
             <property name="can_focus">False</property>
             <property name="halign">start</property>
             <property name="margin_right">100</property>
-            <property name="label" translatable="yes">Hide for Single Device</property>
+            <property name="label" translatable="yes">Ocultar para un solo dispositivo</property>
           </object>
           <packing>
             <property name="left_attach">0</property>
